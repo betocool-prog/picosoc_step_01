@@ -1,0 +1,88 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Jan  4 03:18:20 2022
+[*]
+[dumpfile] "./waveform.vcd"
+[dumpfile_mtime] "Tue Jan  4 03:12:15 2022"
+[dumpfile_size] 34564591
+[savefile] "./waveform.gtkw"
+[timestart] 1924
+[size] 1920 1043
+[pos] -1 -1
+*-4.000000 1944 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.top.
+[treeopen] TOP.top.soc.
+[treeopen] TOP.top.soc.cpu.
+[sst_width] 221
+[signals_width] 189
+[sst_expanded] 1
+[sst_vpaned_height] 298
+@23
+[color] 3
+TOP.top.soc.cpu.cpuregs.rdata1[31:0]
+[color] 3
+TOP.top.soc.cpu.cpuregs.rdata2[31:0]
+@22
+TOP.top.soc.cpu.cpuregs.regs(0)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(1)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(2)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(3)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(4)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(5)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(6)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(7)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(8)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(9)[31:0]
+[color] 2
+TOP.top.soc.cpu.cpuregs.regs(10)[31:0]
+[color] 2
+TOP.top.soc.cpu.cpuregs.regs(11)[31:0]
+[color] 2
+TOP.top.soc.cpu.cpuregs.regs(12)[31:0]
+[color] 2
+TOP.top.soc.cpu.cpuregs.regs(13)[31:0]
+[color] 2
+TOP.top.soc.cpu.cpuregs.regs(14)[31:0]
+[color] 2
+TOP.top.soc.cpu.cpuregs.regs(15)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(16)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(17)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(18)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(19)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(20)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(21)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(22)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(23)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(24)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(25)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(26)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(27)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(28)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(29)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(30)[31:0]
+TOP.top.soc.cpu.cpuregs.regs(31)[31:0]
+@200
+-
+@22
+TOP.led[3:0]
+@28
+>3
+TOP.top.clk
+@200
+>0
+-
+@22
+[color] 5
+TOP.top.soc.progmem.addr[31:0]
+[color] 5
+TOP.top.soc.progmem.mem_data[31:0]
+@200
+-
+@22
+TOP.top.soc.memory.addr[21:0]
+TOP.top.soc.memory.rdata[31:0]
+TOP.top.soc.memory.wdata[31:0]
+TOP.top.soc.memory.mem(0)[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
